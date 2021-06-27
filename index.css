@@ -18,6 +18,8 @@ nav{
   justify-content: space-around;
   min-height: 8vh;
   background: #003386c4;
+  position: fixed;
+  z-index: 100;
 }
 
 .logo, .logo a{
